@@ -1,5 +1,5 @@
-# fort.mac-v2
-Fort1nd macOS Electron app - completely rewritten
+# fort.ind on mac
+fort but on mac.. need i say less 
 
 ## Description
 This is an Electron-based macOS application that embeds fort.ind (i promise it's not gonna be a Electron app forever ok?)
@@ -8,7 +8,7 @@ This is an Electron-based macOS application that embeds fort.ind (i promise it's
 - Node.js 16 or higher
 - npm (comes with Node.js)
 
-## Installation
+## install??
 ```bash
 npm install
 ```
